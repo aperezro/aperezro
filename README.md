@@ -13,7 +13,7 @@
 - 💻 Software Engineering @ Iowa State  
 - ⚙️ Channel UX Engineer @ John Deere  
 - 🚀 Co-Founder @ Sazón Marketing (Web + E-Commerce Systems)  
-- 🎯 Currently chasing: **Summer 2026 SWE Internship**  
+- 🎯 Currently chasing: **Post-Grad 2027 Job**  
 
 I like systems that scale, interfaces that don’t annoy people, and codebases that don’t collapse under their own weight.
 
