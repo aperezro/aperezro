@@ -33,22 +33,3 @@ Tools: Git | VS Code | Android Studio | Figma
 
 ---
 
-## Why this works (quick breakdown)
-
-- **Typing animation** → instantly signals “technical + modern”
-- **Tight sections** → recruiters scan this in ~10 seconds
-- **Project bullets** → directly pulled from your resume :contentReference[oaicite:0]{index=0} but sharpened into impact
-- **Puerto Rico mention** → identity without sounding like a diversity statement
-- **Tone** → confident, not try-hard
-
----
-
-## If you want to level it up further
-
-I can:
-- Add a **live project showcase section** with clickable cards  
-- Integrate **visitor counters + contribution snake animation**  
-- Make a **dark futuristic version** (think hacker terminal aesthetic)  
-- Or tailor it specifically for **Big Tech / quant / startup recruiting**
-
-Just tell me the vibe you want next.
