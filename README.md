@@ -22,13 +22,71 @@ I like systems that scale, interfaces that don’t annoy people, and codebases t
 ## ⚡ Tech Stack
 
 ```bash
-Languages: Python | Java | C | JavaScript | TypeScript  
-Frontend: React | HTML | CSS  
-Backend: Node.js | Firebase  
-Database: MySQL | MongoDB  
+Languages: Python | Java | C | JavaScript | TypeScript
+Frontend: React | HTML | CSS
+Backend: Node.js | Firebase
+Database: MySQL | MongoDB
 Tools: Git | VS Code | Android Studio | Figma
+```
 
-<p align="center"> <a href="mailto:aperezro@iastate.edu">Email</a> • <a href="https://aperezro.github.io/Alejandro/">Portfolio</a> • <a href="https://www.linkedin.com/">LinkedIn</a> </p>
+---
+
+## 🏗️ Projects
+
+### 🔥 Sazón Marketing
+- Rebuilt e-commerce platform → +35% traffic
+- Integrated inventory systems handling $3M+ in products
+
+### 🍽️ DesiEats Platform
+- Designed full website + UX system
+- Built calorie tracker + checkout prototype
+
+### 🏋️ LiftMate (Gym Tracker)
+- Firebase authentication + persistent user data
+- Designed from real user interviews
+- Tracks workouts, PRs, and progress
+
+### 🎮 Controller-Based Computing (C)
+- Converted PS4 controller into full computer input system
+- Built maze navigation + controller-only typing tool (with TTS)
+
+### 🤖 Autonomous Roomba System
+- Low-level C for motors + sensors
+- Implemented mapping and obstacle avoidance
+- Built Python GUI for live control + visualization
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aperezro&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aperezro&theme=tokyonight" />
+</p>
+
+---
+
+## 🧭 Current Focus
+
+- Scalable full-stack applications  
+- Backend systems + architecture  
+- Real-world product development  
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="mailto:aperezro@iastate.edu">Email</a> •
+  <a href="https://aperezro.github.io/Alejandro/">Portfolio</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
+
+---
+
+## ⚔️ Philosophy
+
+> Build things that work. Then make them impossible to ignore.
 
 
 ---
