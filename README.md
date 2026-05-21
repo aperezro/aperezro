@@ -6,54 +6,15 @@
 </p>
 
 ---
-
 ## 🧠 About Me
 
 - 🇵🇷 From Puerto Rico → building in the U.S. mainland  
 - 💻 Software Engineering @ Iowa State  
-- ⚙️ Channel UX Engineer @ John Deere  
-- 🚀 Co-Founder @ Sazón Marketing (Web + E-Commerce Systems)  
-- 🎯 Currently chasing: **Post-Grad 2027 Job**  
+- ⚙️ Channel UX Engineer @ John Deere
 
 I like systems that scale, interfaces that don’t annoy people, and codebases that don’t collapse under their own weight.
 
 ---
-
-## ⚡ Tech Stack
-
-```bash
-Languages: Python | Java | C | JavaScript | TypeScript
-Frontend: React | HTML | CSS
-Backend: Node.js | Firebase
-Database: MySQL | MongoDB
-Tools: Git | VS Code | Android Studio | Figma
-```
-
----
-
-## 🏗️ Projects
-
-### 🔥 Sazón Marketing
-- Rebuilt e-commerce platform → +35% traffic
-- Integrated inventory systems handling $3M+ in products
-
-### 🍽️ DesiEats Platform
-- Designed full website + UX system
-- Built calorie tracker + checkout prototype
-
-### 🏋️ LiftMate (Gym Tracker)
-- Firebase authentication + persistent user data
-- Designed from real user interviews
-- Tracks workouts, PRs, and progress
-
-### 🎮 Controller-Based Computing (C)
-- Converted PS4 controller into full computer input system
-- Built maze navigation + controller-only typing tool (with TTS)
-
-### 🤖 Autonomous Roomba System
-- Low-level C for motors + sensors
-- Implemented mapping and obstacle avoidance
-- Built Python GUI for live control + visualization
 
 ---
 
@@ -66,13 +27,6 @@ Tools: Git | VS Code | Android Studio | Figma
 
 ---
 
-## 🧭 Current Focus
-
-- Scalable full-stack applications  
-- Backend systems + architecture  
-- Real-world product development  
-
----
 
 ## 📫 Connect
 
@@ -83,11 +37,3 @@ Tools: Git | VS Code | Android Studio | Figma
 </p>
 
 ---
-
-## ⚔️ Philosophy
-
-> Build things that work. Then make them impossible to ignore.
-
-
----
-
